@@ -1,5 +1,6 @@
 # Mediapipe Poseestimaion
 利用google的开源mediapipe，使用python编写代码
+提供深蹲计数，以及深蹲姿势改进实时建议
 
 
 
