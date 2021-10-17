@@ -9,4 +9,5 @@
 ## Graph
 实验前后数据对比，实验人员的深蹲表现得到提升
 ![graph](https://imgur.com/CuuKwXI.jpg)
-![graph](https://imgur.com/undefined.jpg)
+
+![graph1](https://imgur.com/UpyrYsq.jpg)
