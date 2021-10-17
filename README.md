@@ -6,7 +6,7 @@
 
 
 # Demo
-![demo](https://imgur.com/kSPWDVL.Gif)
+[Imgur](https://imgur.com/kSPWDVL)
 
 ## Graph
 实验前后数据对比，实验人员的深蹲表现得到提升
