@@ -5,7 +5,7 @@ The system not only counts completed squat repetitions, but also provides **inst
 
 ---
 
-## 🎯 Features
+## Features
 
 ### ✔ Real-Time Pose Estimation  
 Utilizes Mediapipe’s `Pose` solution to detect and track 33 human body landmarks in real time.
@@ -31,7 +31,7 @@ Landmarks, pose connections, angle readings, and feedback text are rendered dire
 
 ---
 
-## 📸 Demo
+## Demo
 
 Real-time squat detection demo:
 
@@ -39,7 +39,7 @@ Real-time squat detection demo:
 
 ---
 
-## 📊 Experiment Results
+## Experiment Results
 
 After using this system, participants demonstrated improved squat stability and consistency.  
 The graphs below show pre-experiment and post-experiment performance comparisons.
@@ -50,7 +50,7 @@ The graphs below show pre-experiment and post-experiment performance comparisons
 
 ---
 
-## 🧠 System Overview
+## System Overview
 
 ### **1. Pose Detection**
 Mediapipe identifies 33 major skeletal landmarks, including:  
@@ -102,7 +102,7 @@ if torso_lean:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 
