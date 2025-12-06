@@ -21,8 +21,6 @@ The system analyzes knee angles, hip angles, torso alignment, and symmetry to de
 - Knees collapsing inward  
 - Leaning too far forward  
 - Insufficient squat depth  
-- Rounding the back  
-- Uneven weight distribution  
 
 Corrective suggestions are displayed live on the screen.
 
